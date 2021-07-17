@@ -41,7 +41,7 @@
        android:fontFamily="@font/caramelsweets"
        android:gravity="center_horizontal"
        android:lineHeight="40dp"
-       android:text="version :  1.0 \n DevTeam\n  Mahmoud Zoabi \n  salah Gr \n Rukaya Ersheed"
+       android:text="version :  1.0 \n DevTeam\n  Mahmoud Zoabi \n  Saleh saida \n Rukaya Ersheed"
        android:textAlignment="center"
        android:textColor="#FFE606"
        android:textSize="35dp"
